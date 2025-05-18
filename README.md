@@ -1,7 +1,7 @@
 # 🔐 Ethical Hacking Project : Simulating Real-World Network Explotation and Defense
-Author : Chandra Keshav Kumar Singh  
-Semester : 6  
-Branch : Cyber Security  
+**Author** : Chandra Keshav Kumar Singh  
+**Semester** : 6  
+**Branch** : Cyber Security  
 ## Scanning and Enumerating a Local Network with Nmap
 
 ## Table of Contents
